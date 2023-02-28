@@ -1,7 +1,7 @@
 </div>
 
 <p align="center">
- Focus in CyberSecurity.LEARNING FASTER.  </p>
+ Focus on CyberSecurity.LEARNING FASTER.  </p>
 
 ##
 
